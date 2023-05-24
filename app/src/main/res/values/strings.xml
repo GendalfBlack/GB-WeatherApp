@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">S123</string>
+    <string name="app_name">Weather_Zhytomyr</string>
+    <string name="separator">: </string>
+    <string name="celsius">C</string>
+    <string name="percent">%</string>
+    <string name="pressure_units">мм</string>
+    <string name="temperature">Температура</string>
+    <string name="feels_like">Відчувається як</string>
+    <string name="pressure">Атмосферний тиск</string>
+    <string name="humidity">Вологість повітря</string>
+    <string name="precipitation">Ймовірність опадів</string>
+    <string name="city_name">Житомир</string>
+
+
 </resources>
